@@ -12,6 +12,7 @@ settings - storage - controller ide (choose iso file )
 
 start -install ubuntu- name ,password - restart 
 
+
 ## EXP-2 Google app engine
 
 install python 2.7 version
@@ -29,6 +30,7 @@ file - create new application - application name (helloworld) -parent(select  ne
 select project and run button 
 
 open browser - type   localhost:port(8080)
+
 
 ## EXP-5 virtual network
 
@@ -59,6 +61,7 @@ varify
 ## EXP-8
 
 install winscp
+https://winscp.net/eng/download.php
 
 start ubuntu
 
